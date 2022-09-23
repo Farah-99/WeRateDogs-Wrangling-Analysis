@@ -7,6 +7,7 @@ Project 2: Wrangle and Analyze Data - WeRateDogs twitter account
 # Project Overview
 ## Introduction
 This project is a qualification for the Udacity Data Analysis Nanodegree (DAND). Its goal is to showcase expertise in the Data Wrangling stage of the Data Analysis Process. Three different types of data sources were provided to us for this project, and we approached each one in a unique way. Then we tried to asses our data visually and with programming in order to collect the different issues (Quality and Tideness). I was able to collect 8 quality problems and 2 tideness issues, which I cleaned afterwards. Finally, I was able to draw a variety of inferences and observations regarding the WeRateDogs Dataset thanks to this process.
+
 ##About the data
 The tweet history of Twitter user @dog rates, better known as WeRateDogs, is the dataset I will be dealin with (wragling, studying and visualizing). WeRateDogs is a Twitter account that rates users' dogs and adds light hearted joke abou the puppies. The denominator of these ratings is almost always 10. H owever, the numerators? frequently over 10. 11/10, 12/10, 13/10, etc. Why? because "hey're good dogs Brent."  The sentence has even gained notoriety as a meme.
 
